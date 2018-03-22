@@ -12,7 +12,7 @@ public class MyStack {
     }
 
     public MyStack(int stackSize) {
-        stackSize = this.stackSize;
+        this.stackSize = stackSize;
         stackArray = new String[stackSize];
 
     }
@@ -44,6 +44,12 @@ public class MyStack {
         } else {
             System.out.println("Stack is Empty");
             return "=1";
+        }
+    }
+
+    public void popAll() {
+        for (int i = top; i >=0; i--) {
+            pop();
         }
     }
 

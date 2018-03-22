@@ -22,5 +22,7 @@ public class TheStack {
         myStack.pop();
 
         myStack.peek();
+
+        myStack.popAll();
     }
 }
