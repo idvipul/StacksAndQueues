@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66496424-31f2-433d-97f4-eff1ada60057" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StacksAndQueues/Stack/MyStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StacksAndQueues/Stack/TheStack.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Queue/TheQueue.java" afterPath="$PROJECT_DIR$/src/Queue/TheQueue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Stack/MyStack.java" afterPath="$PROJECT_DIR$/src/Stack/MyStack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Stack/TheStack.java" afterPath="$PROJECT_DIR$/src/Stack/TheStack.java" />
-    </list>
+    <list default="true" id="66496424-31f2-433d-97f4-eff1ada60057" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,8 +60,8 @@
       <file leaf-file-name="MyQueue.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Queue/MyQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="785">
-              <caret line="55" column="24" lean-forward="false" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -328,12 +322,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521744917787</updated>
-      <workItem from="1521744922492" duration="6878000" />
+      <workItem from="1521744922492" duration="7238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6878000" />
+    <option name="totallyTimeSpent" value="7238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="66" width="1920" height="1080" extended-state="6" />
@@ -426,8 +420,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Queue/MyQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="785">
-          <caret line="55" column="24" lean-forward="false" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
